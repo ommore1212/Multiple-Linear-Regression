@@ -1,23 +1,16 @@
-#Multiple Linear Regression
+# Multiple Linear Regression  
 
-Overview
+## Overview  
+This project applies **Multiple Linear Regression** to predict target values based on multiple input features. It uses a linear approach to model the relationship between independent and dependent variables.  
 
-This project applies Multiple Linear Regression to predict target values based on input features. It helps in understanding the relationship between variables and their impact on the output.
+🎯 **Results**:  
+- Evaluates model performance using **R-squared** and **Mean Absolute Error**.  
 
-🎯 Results:
+🛠 **Technologies Used**:  
+- **Python** 🐍  
+- **Pandas, NumPy** 📊  
+- **Matplotlib, Seaborn** 📊  
+- **Scikit-learn** 🤖  
 
-Evaluates model performance using R-squared and Mean Absolute Error.
-
-🛠 Technologies Used:
-
-Python 🐍
-
-Pandas, NumPy 📊
-
-Matplotlib, Seaborn 📊
-
-Scikit-learn 🤖
-
-📜 Model Used:
-
-Multiple Linear Regression
+📜 **Model Used**:  
+- **Multiple Linear Regression**  
